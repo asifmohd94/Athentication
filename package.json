@@ -1,7 +1,7 @@
 {
   "name": "authentication",
   "version": "1.0.0",
-  "description": "My all social media web application",
+  "description": "Authentication",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js",
@@ -10,7 +10,7 @@
   "keywords": [
     "social"
   ],
-  "author": "CodingNinjas",
+  "author": "Mohammad Asif",
   "license": "ISC",
   "dependencies": {
     "cookie-parser": "^1.4.5",
